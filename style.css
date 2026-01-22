@@ -14,15 +14,7 @@ body {
 }
 
 
-header {
-    background-image: url("1730459732960.jpg");
-    height: 500px;
-    background-size: cover;
-    background-position: center;
-    color: rgb(232, 222, 222);
-    text-align: left;
-    padding: 30px 10px;
-}
+
 
 header h1 {
     font-size: 36px;
